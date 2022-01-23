@@ -3,7 +3,7 @@
 
 **GOAL**
 
-To Determine which features of data (measurements) are most important for diagnosing breast cancer and find out if breast cancer occurs or not.
+To Determine which features of data (measurements) are most important for diagnosing variety of  cancer and find out if cancer occurs or not.
 
 **DATASET**
 
